@@ -23,6 +23,11 @@ Soy apasionado, empático y cuento con competencias enfocadas en el trabajo en e
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
+![]()
+![]()
+![]()
 
 🕓 Control de versiones:
 
@@ -43,7 +48,7 @@ Soy apasionado, empático y cuento con competencias enfocadas en el trabajo en e
 
 
 <div align="center">  
-  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=mariasmoUN&show_icons=true&count_private=true&hide_border=true&title_color=795e5e&icon_color=795e5e&text_color=c9d1d9&bg_color=0d1117" alt="Mr MRF github stats"/> 
+  <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=MatiasAlvealC&show_icons=true&count_private=true&hide_border=true&title_color=795e5e&icon_color=795e5e&text_color=c9d1d9&bg_color=0d1117" alt="Mr MRF github stats"/> 
  
   <img width="49%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=mariasmoUN&theme=black-ice&hide_border=true&stroke=222125&background=0D1117&ring=795e5e&fire=a88885&currStreakLabel=795e5e"/>
 </div>
