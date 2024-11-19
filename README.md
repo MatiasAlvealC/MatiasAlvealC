@@ -71,7 +71,6 @@ Soy apasionado, empático y cuento con competencias enfocadas en el trabajo en e
   <img width="49%" height="auto" src="https://github-readme-stats.vercel.app/api?username=MatiasAlvealC&show_icons=true&count_private=true&hide_border=true&title_color=795e5e&icon_color=795e5e&text_color=c9d1d9&bg_color=0d1117" alt="Mr MRF github stats"/> 
  
   <img width="49%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=MatiasAlvealc&theme=black-ice&hide_border=true&stroke=222125&background=0D1117&ring=795e5e&fire=a88885&currStreakLabel=795e5e"/>
-  <a href="https://git.io/streak-stats"><img src="https://github-readme-streak-stats.herokuapp.com?user=MatiasAlvealC&theme=dark&hide_border=true&locale=es&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak" /></a>
 
 </div>
 </div>
