@@ -72,6 +72,12 @@ Soy apasionado, empático y cuento con competencias enfocadas en el trabajo en e
  
   <img width="49%" height="auto" src="https://github-readme-streak-stats.herokuapp.com/?user=MatiasAlvealc&theme=black-ice&hide_border=true&stroke=222125&background=0D1117&ring=795e5e&fire=a88885&currStreakLabel=795e5e"/>
 
+  <div align="center">
+  <img src="https://streak-stats.demolab.com?user=MatiasAlvealc&locale=en&mode=weekly&theme=tokyonight&hide_border=false&border_radius=5&date_format=j/n%5B/Y%5D" height="150" alt="streak graph" /> <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=MatiasAlvealc&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+</div>
+
+
 </div>
 </div>
 
