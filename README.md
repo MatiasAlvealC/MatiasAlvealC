@@ -1,9 +1,10 @@
 # Hola a todos 👋🏻, Soy Matias Alveal
 
-Soy geofísico y programador, con un enfoque en programación full stack. Busco crear proyectos que brinden la mejor experiencia para el usuario.
+Soy geofísico y desarrollador de software con enfoque full stack. Me apasiona construir soluciones tecnológicas que generen impacto real en la experiencia de las personas, combinando lógica, diseño y rendimiento.
 
-Soy apasionado, empático y cuento con competencias enfocadas en el trabajo en equipo, comunicación asertiva, responsabilidad y proactividad. Me gusta retarme y siempre estoy dispuesto a adquirir nuevos conocimientos. aspiro a conseguir mi primer empleo en el mundo TI, adquirir experiencia y fortalecer mi vida profesional, con un interés particular en los lenguajes de programación java y python.
+Actualmente trabajo como desarrollador full stack, usando tecnologías como Java (Spring Boot), React Native, TypeScript y Python. Disfruto enfrentar desafíos técnicos, aprender constantemente y trabajar en equipo para lograr productos robustos, escalables y centrados en el usuario.
 
+Me interesa seguir creciendo en el mundo TI, fortalecer mis conocimientos en arquitectura de software y participar en proyectos donde pueda aportar valor desde la creatividad, la colaboración y la calidad del código.
 <p>
 
 <a href="https://www.linkedin.com/in/matias-alveal-a710712b2/"><img src="https://img.shields.io/badge/Linkedin-%231572B6.svg?style=for-the-badge&logo=Linkedin&logoColor=white" style="margin-bottom: 4px;" height="30px" target="_blank"></a>
