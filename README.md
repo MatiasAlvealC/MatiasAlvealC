@@ -1,6 +1,6 @@
 # Hola a todos 👋🏻, Soy Matias Alveal
 
-Soy geofísico y desarrollador de software con enfoque full stack. Me apasiona construir soluciones tecnológicas que generen impacto real en la experiencia de las personas, combinando lógica, diseño y rendimiento.
+Soy desarrollador de software con enfoque full stack. Me apasiona construir soluciones tecnológicas que generen impacto real en la experiencia de las personas, combinando lógica, diseño y rendimiento.
 
 Actualmente trabajo como desarrollador full stack, usando tecnologías como Java (Spring Boot), React Native, TypeScript y Python. Disfruto enfrentar desafíos técnicos, aprender constantemente y trabajar en equipo para lograr productos robustos, escalables y centrados en el usuario.
 
